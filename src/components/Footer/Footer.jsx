@@ -33,12 +33,12 @@ const Footer = () => {
           <h2>GET IN TOUCH</h2>
           <ul>
             <li>+91 1234567890</li>
-            <li>contact@food-del.com</li>
+            <li>contact@Ideologist.com</li>
           </ul>
         </div>
       </div>
       <hr />
-      <p className="footer-copyright">Tomato.com © 2022. All Rights Reserved</p>
+      <p className="footer-copyright">Ideologist.com © 2022. All Rights Reserved</p>
     </div>
   );
 };
